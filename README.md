@@ -18,4 +18,8 @@ My  C++ solutions to Striver A2Z DSA sheet and Leetcode problems .
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vkdevx/Striver-A2Z-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/vkdevx/Striver-A2Z-DSA/tree/main/0704-binary-search/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/vkdevx/Striver-A2Z-DSA/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
